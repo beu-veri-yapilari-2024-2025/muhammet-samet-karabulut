@@ -1,0 +1,77 @@
+# IDE ve Editor Dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg
+*.egg-info/
+dist/
+build/
+
+# C++
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+*.iml
+
+# Derleme Dosyaları
+*.com
+*.class
+*.exe
+*.o
+*.so
+
+# Sistem Dosyaları
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Büyük Dosyalar
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.mp4
+*.avi
+*.mov
+
+# Test ve Geçici Dosyalar
+*.log
+*.tmp
+temp/
+tmp/
+
+# Node (eğer kullanılırsa)
+node_modules/
+package-lock.json
+
+# Diğer
+.env
+*.bak
+
