@@ -15,8 +15,8 @@ Her hafta yeni bir konu işlenir ve ilgili uygulamalar bu klasörlerde paylaşı
 
 ## 🗂️ Haftalık Ödevler
 
-| 🗓️ Hafta | 📂 Klasör | 📝 Açıklama |
-|:---------:|:----------|:------------|
+| 🗓️ Hafta | 📂 Klasör |
+|:---------:|:----------|
 | 1. Hafta | [📁 Hafta-1](./hafta-1) | 
 | 2. Hafta | [📁 Hafta-2](./hafta-2) | 
 | 3. Hafta | [📁 Hafta-3](./hafta-3) | 
