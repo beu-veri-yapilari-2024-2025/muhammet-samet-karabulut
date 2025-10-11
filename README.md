@@ -17,14 +17,14 @@ Her hafta yeni bir konu işlenir ve ilgili uygulamalar bu klasörlerde paylaşı
 
 | 🗓️ Hafta | 📂 Klasör | 📝 Açıklama |
 |:---------:|:----------|:------------|
-| 1. Hafta | [📁 Hafta-1](./Hafta-1) | 
-| 2. Hafta | [📁 Hafta-2](./Hafta-2) | 
-| 3. Hafta | [📁 Hafta-3](./Hafta-3) | 
-| 4. Hafta | [📁 Hafta-4](./Hafta-4) |
-| 5. Hafta | [📁 Hafta-5](./Hafta-5) | 
-| 6. Hafta | [📁 Hafta-6](./Hafta-6) | 
-| 7. Hafta | [📁 Hafta-7](./Hafta-7) | 
-| 8. Hafta | [📁 Hafta-8](./Hafta-8) | 
+| 1. Hafta | [📁 Hafta-1](./hafta-1) | 
+| 2. Hafta | [📁 Hafta-2](./hafta-2) | 
+| 3. Hafta | [📁 Hafta-3](./hafta-3) | 
+| 4. Hafta | [📁 Hafta-4](./hafta-4) |
+| 5. Hafta | [📁 Hafta-5](./hafta-5) | 
+| 6. Hafta | [📁 Hafta-6](./hafta-6) | 
+| 7. Hafta | [📁 Hafta-7](./hafta-7) | 
+| 8. Hafta | [📁 Hafta-8](./hafta-8) | 
 
 ---
 
