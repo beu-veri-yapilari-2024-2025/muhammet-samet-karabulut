@@ -1,0 +1,11 @@
+C:\Users\samet\source\repos\veriyapilari\Linked_List_2_odev\bin\Debug\Linked_List_2_odev.exe.config
+C:\Users\samet\source\repos\veriyapilari\Linked_List_2_odev\bin\Debug\Linked_List_2_odev.exe
+C:\Users\samet\source\repos\veriyapilari\Linked_List_2_odev\bin\Debug\Linked_List_2_odev.pdb
+C:\Users\samet\source\repos\veriyapilari\Linked_List_2_odev\obj\Debug\Linked_List_2_odev.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\veriyapilari\Linked_List_2_odev\obj\Debug\Linked_List_2_odev.Form1.resources
+C:\Users\samet\source\repos\veriyapilari\Linked_List_2_odev\obj\Debug\Linked_List_2_odev.Properties.Resources.resources
+C:\Users\samet\source\repos\veriyapilari\Linked_List_2_odev\obj\Debug\Linked_List_2_odev.csproj.GenerateResource.cache
+C:\Users\samet\source\repos\veriyapilari\Linked_List_2_odev\obj\Debug\Linked_List_2_odev.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\veriyapilari\Linked_List_2_odev\obj\Debug\Linked_List_2_odev.exe
+C:\Users\samet\source\repos\veriyapilari\Linked_List_2_odev\obj\Debug\Linked_List_2_odev.pdb
+C:\Users\samet\source\repos\veriyapilari\Linked_List_2_odev\obj\Debug\Linked_List_2_odev.exe.config
